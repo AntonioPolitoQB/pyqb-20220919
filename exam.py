@@ -41,7 +41,7 @@ pass
 
 # ### Exercise 2 (max 5 points)
 #
-# Make a figure with two plots: a scatterplot of the `x` and `y` values; each point should be colored according its `subarea`. Use a proper title and a legend (Hint: https://matplotlib.org/stable/gallery/lines_bars_and_markers/scatter_with_legend.html).
+# Make a figure with a scatterplot of the `x` and `y` values; each point should be colored according its `subarea`. Use a proper title and a legend (Hint: https://matplotlib.org/stable/gallery/lines_bars_and_markers/scatter_with_legend.html).
 #
 
 pass

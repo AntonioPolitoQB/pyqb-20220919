@@ -96,6 +96,8 @@ def average_dist(row: pd.Series) -> float:
 
 data['avg_coll_dist'] = data.apply(average_dist, axis=1)
 
+data['avg_coll_dist'].head()
+
 # ### Exercise 5 (max 3 points)
 #
 # Print the mean `avg_coll_dist` for each date (month, year).
